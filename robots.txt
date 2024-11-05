@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eqezuuqi.github.io/HtL/sitemap_index.txt
+Sitemap: https://eqezuuqi.github.io/MBG/sitemap_index.txt
+Sitemap: https://eqezuuqi.github.io/XbS/sitemap_index.txt
+Sitemap: https://eqezuuqi.github.io/pNB/sitemap_index.txt
